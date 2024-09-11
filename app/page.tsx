@@ -54,8 +54,12 @@ export default function Home() {
   };
 
   const handleLanguageChange = (lang: string) => {
-    setLanguage(lang);
-    setDropdownOpen(false);
+    if (lang === "en" || lang === "od") {
+      setLanguage(lang as "en" | "od");
+      setDropdownOpen(false);
+    } else {
+      console.error("Invalid language type:", lang);
+    }
   };
 
   return (
