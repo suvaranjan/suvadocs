@@ -1,0 +1,12 @@
+{
+    "mahabharat" : {
+        "title" : "ମହାଭାରତ",
+        "type" : "page",
+        "display" : "hidden"
+    },
+    "ramayan" : {
+        "title" : "Ramayan",
+        "type" : "page",
+        "display" : "hidden"
+    }
+}

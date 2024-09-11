@@ -1,0 +1,12 @@
+{
+    "english" : {
+        "title" : "English",
+        "type" : "page",
+        "display" : "hidden"
+    },
+    "odia" : {
+        "title" : "ଓଡ଼ିଆ",
+        "type" : "page",
+        "display" : "hidden"
+    }
+}

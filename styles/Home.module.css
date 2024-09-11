@@ -1,0 +1,35 @@
+.bookItem {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    /* Spacing between title/arrow and description */
+}
+
+.bookTitleContainer {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    /* Spacing between title and arrow */
+    position: relative;
+}
+
+.bookTitle {
+    cursor: pointer;
+    font-size: 0.875rem;
+    font-weight: 500;
+    transition: transform 0.3s ease;
+    /* Only apply transition to transform */
+}
+
+.arrowIcon {
+    transition: transform 0.3s ease;
+    /* Smooth transition for icon animation */
+}
+
+.bookTitleContainer:hover .bookTitle,
+.bookTitleContainer:hover .arrowIcon {
+    color: #0070f3;
+    /* Change color on hover */
+    transform: translateY(-2px);
+    /* Slight lift on hover */
+}

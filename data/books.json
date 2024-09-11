@@ -1,0 +1,18 @@
+[
+  {
+    "titleEn": "Mahabharat",
+    "titleOd": "ମହାଭାରତ",
+    "descriptionEn": "Explore the epic tale of the Mahabharat, featuring the epic Kurukshetra War and the dramatic fates of the Kaurava and Pandava families.",
+    "descriptionOd": "ମହାଭାରତର, ଯାହା କୁରୁକ୍ଷେତ୍ର ଯୁଦ୍ଧ ଓ କୌରବ ଓ ପାଣ୍ଡବ ବଂଶର ଘଟଣା ଅନ୍ବେଷଣ କରେ ।",
+    "englishUrl": "/english/mahabharat/introduction",
+    "odiaUrl": "/odia/mahabharat/introduction"
+  },
+  {
+    "titleEn": "Ramayan",
+    "titleOd": "ରାମାୟଣ",
+    "descriptionEn": "Delve into the Ramayan, an ancient epic that tells the story of Prince Rama, his wife Sita, and their loyal ally Hanuman.",
+    "descriptionOd": "ରାମାୟଣର, ଯାହା ପ୍ରଭୁ ଶ୍ରୀରାମ, ସୀତା ଓ ତାଙ୍କର ଭକ୍ତ ହନୁମାନଙ୍କର କାହାଣୀ କୁ ଚିତ୍ରଣ କରେ ।",
+    "englishUrl": "/english/ramayan/first",
+    "odiaUrl": "/odia/ramayan/first"
+  }
+]
